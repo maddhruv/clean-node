@@ -1,12 +1,21 @@
 {
   "name": "clean-node",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Clean node_modules for your node app",
+  "keywords": [
+    "node",
+    "clean node",
+    "clean node_modules",
+    "shrink node app"
+  ],
   "main": "index.js",
   "repository": "https://github.com/maddhruv/clean-node",
   "author": "maddhruv <dhruvjainpenny@gmail.com>",
   "license": "Apache License 2.0",
   "dependencies": {
     "del": "^3.0.0"
+  },
+  "bin": {
+    "clean-node": "./index.js"
   }
 }
