@@ -1,4 +1,7 @@
 # clean-node
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/maddhruv/clean-node.svg)](https://greenkeeper.io/)
+
 Clean node_modules for your Node App
 
 ## Installation
